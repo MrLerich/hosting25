@@ -81,4 +81,3 @@ Found 2 errors in 1 file (checked 1 source file)
 
 **Как сдавать задание**
 
-Загрузить свой код на GitHub и приложить в ДЗ на платформе Skypro **ссылку на свой файл на GitHub.**
